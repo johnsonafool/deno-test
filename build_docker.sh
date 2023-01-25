@@ -1,0 +1,1 @@
+(cd deno-mongo-container && docker-compose up -d)
